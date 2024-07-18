@@ -73,14 +73,14 @@ Displays user information, avatar, and brief statistics of their tasks and allow
    ```
 
 4. **Set up environment variables:**
-   - Create a `.env` file in the server directory(in dir: taskmaster) with the following variables:
-   ```env
+   - Change the `.env` file present in the server directory(in dir: taskmaster) with your values:
+   ```env - server example
    PORT=3001
    MONGO_URI=your_mongodb_uri
    JWT_SECRET=your_jwt_secret
    ```
    - In the client directory
-   ```env
+   ```env - client example
    PORT=4000
    REACT_APP_HOST=http://localhost:3001
    ```
