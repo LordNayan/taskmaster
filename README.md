@@ -1,5 +1,7 @@
 # TaskMaster
 
+![image](https://github.com/user-attachments/assets/1c19a79d-2121-41d8-970f-c71d6274ca4f)
+
 TaskMaster is a task management application built with Node.js, Express, MongoDB, React, and Material-UI (MUI). The application allows users to manage their tasks efficiently with a clean and responsive user interface.
 
 ## Features
@@ -93,6 +95,17 @@ Displays user information, avatar, and brief statistics of their tasks and allow
    cd ./client
    npm start
    ```
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/b33a166e-99da-4d31-bb54-2c6722696e54)
+
+![Screenshot 2024-07-19 at 1 14 50 AM](https://github.com/user-attachments/assets/ace3f007-3670-4dcb-9368-816dd44ef05c)
+
+![Screenshot 2024-07-19 at 1 15 16 AM](https://github.com/user-attachments/assets/7cf1c884-58ac-4fd1-8dda-ee4be961271a)
+
+![image](https://github.com/user-attachments/assets/d47c82c3-f9c1-4a1a-b11f-7d87b487fe1b)
+
 
 ## License
 
